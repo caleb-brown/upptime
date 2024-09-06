@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Main Site
     url: https://caleb-brown.dev
+  - name: authentik
+    url: https://auth.caleb-brown.dev
   - name: Gitea
     url: https://projects.caleb-brown.dev
 
