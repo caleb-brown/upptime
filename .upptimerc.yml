@@ -12,7 +12,7 @@ sites:
   - name: Immich
     url: https://photos.caleb-brown.dev
   - name: Overseerr
-    url: https://overseerr.caleb-brown.dev
+    url: https://overseerr.caleb-brown.dev/api/v1/status
   - name: Tautulli
     url: https://tautulli.caleb-brown.dev
   - name: RomM
