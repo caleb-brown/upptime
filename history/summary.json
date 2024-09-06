@@ -52,7 +52,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 2
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.caleb-brown.dev.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "3.01%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "3.01%",
-    "uptimeMonth": "3.01%",
-    "uptimeYear": "3.01%",
+    "uptime": "1.17%",
+    "uptimeDay": "1.17%",
+    "uptimeWeek": "1.17%",
+    "uptimeMonth": "1.17%",
+    "uptimeYear": "1.17%",
     "time": 104,
     "timeDay": 104,
     "timeWeek": 104,
@@ -110,7 +110,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 2
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 2
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 2
     }
   }
 ]
