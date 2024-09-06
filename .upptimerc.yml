@@ -11,7 +11,7 @@ sites:
     url: https://abs.caleb-brown.dev
   - name: Immich
     url: https://photos.caleb-brown.dev
-  - name: Overseer
+  - name: Overseerr
     url: https://overseerr.caleb-brown.dev
   - name: Tautulli
     url: https://tautulli.caleb-brown.dev
