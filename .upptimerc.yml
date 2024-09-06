@@ -5,10 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Main Site
     url: https://caleb-brown.dev
-  - name: authentik
-    url: https://auth.caleb-brown.dev
   - name: Gitea
     url: https://projects.caleb-brown.dev
+  - name: Audiobookshelf
+    url: https://abs.caleb-brown.dev
+  - name: Immich
+    url: https://photos.caleb-brown.dev
+  - name: Overseer
+    url: https://overseerr.caleb-brown.dev
+  - name: Tautulli
+    url: https://tautulli.caleb-brown.dev
+  - name: RomM
+    url: https://romm.caleb-brown.dev
+  - name: Nextcloud
+    url: https://cloud.caleb-brown.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
