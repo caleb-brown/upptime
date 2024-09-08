@@ -22,19 +22,19 @@
     "url": "https://projects.caleb-brown.dev",
     "icon": "https://icons.duckduckgo.com/ip3/projects.caleb-brown.dev.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "96.27%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "96.27%",
-    "time": 1238,
-    "timeDay": 4223,
-    "timeWeek": 1238,
-    "timeMonth": 1238,
-    "timeYear": 1238,
+    "status": "up",
+    "uptime": "96.12%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
+    "time": 1128,
+    "timeDay": 2898,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-09-08": 127
+      "2024-09-08": 133
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-09-08": 1371,
+      "2024-09-08": 1376,
       "2024-09-07": 1440,
       "2024-09-06": 424
     }
@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.caleb-brown.dev.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "91.27%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "96.11%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.12%",
+    "uptimeYear": "96.12%",
     "time": 3185,
     "timeDay": 7053,
     "timeWeek": 3185,
@@ -96,7 +96,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-09-08": 1371,
+      "2024-09-08": 1376,
       "2024-09-07": 1440,
       "2024-09-06": 422
     }
@@ -118,7 +118,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-09-08": 1371,
+      "2024-09-08": 1376,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
@@ -140,7 +140,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-08": 1371,
+      "2024-09-08": 1376,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
@@ -162,7 +162,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-08": 1371,
+      "2024-09-08": 1376,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
