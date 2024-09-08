@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.caleb-brown.dev.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "96.27%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
     "time": 1238,
     "timeDay": 4223,
     "timeWeek": 1238,
     "timeMonth": 1238,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2024-09-08": 1
+      "2024-09-08": 127
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-09-08": 1245,
+      "2024-09-08": 1371,
       "2024-09-07": 1440,
       "2024-09-06": 424
     }
@@ -64,19 +64,19 @@
     "url": "https://photos.caleb-brown.dev",
     "icon": "https://icons.duckduckgo.com/ip3/photos.caleb-brown.dev.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 2551,
-    "timeWeek": 1040,
-    "timeMonth": 1040,
-    "timeYear": 1040,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "96.11%",
+    "time": 3185,
+    "timeDay": 7053,
+    "timeWeek": 3185,
+    "timeMonth": 3185,
+    "timeYear": 3185,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 126
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-09-08": 1245,
+      "2024-09-08": 1371,
       "2024-09-07": 1440,
       "2024-09-06": 422
     }
@@ -118,7 +118,7 @@
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-09-08": 1245,
+      "2024-09-08": 1371,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
@@ -140,7 +140,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-08": 1245,
+      "2024-09-08": 1371,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
@@ -162,7 +162,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-08": 1245,
+      "2024-09-08": 1371,
       "2024-09-07": 1440,
       "2024-09-06": 423
     }
