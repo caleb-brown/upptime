@@ -22,18 +22,19 @@
     "url": "https://projects.caleb-brown.dev",
     "icon": "https://icons.duckduckgo.com/ip3/projects.caleb-brown.dev.ico",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 1089,
     "timeDay": 194,
     "timeWeek": 1265,
     "timeMonth": 1089,
     "timeYear": 1089,
     "dailyMinutesDown": {
+      "2024-09-17": 0,
       "2024-09-08": 133
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-09-17": 29,
+      "2024-09-17": 705,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -73,18 +74,19 @@
     "url": "https://photos.caleb-brown.dev",
     "icon": "https://icons.duckduckgo.com/ip3/photos.caleb-brown.dev.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "99.15%",
+    "status": "down",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 1531,
     "timeDay": 112,
     "timeWeek": 223,
     "timeMonth": 1531,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2024-09-17": 0,
       "2024-09-08": 126
     }
   },
@@ -105,7 +107,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-09-17": 29,
+      "2024-09-17": 705,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -136,7 +138,7 @@
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-09-17": 29,
+      "2024-09-17": 705,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -167,7 +169,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-09-17": 29,
+      "2024-09-17": 705,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -198,7 +200,7 @@
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-09-17": 29,
+      "2024-09-17": 705,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
