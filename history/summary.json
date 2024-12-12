@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.caleb-brown.dev.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "83.50%",
+    "uptime": "83.51%",
     "uptimeDay": "96.39%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "83.50%",
+    "uptimeYear": "83.51%",
     "time": 454,
     "timeDay": 150,
     "timeWeek": 182,
@@ -80,6 +80,7 @@
     "timeMonth": 107,
     "timeYear": 114,
     "dailyMinutesDown": {
+      "2024-12-12": 40,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -235,6 +236,7 @@
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
+      "2024-12-12": 40,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -351,6 +353,7 @@
     "timeMonth": 91,
     "timeYear": 96,
     "dailyMinutesDown": {
+      "2024-12-12": 40,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -467,6 +470,7 @@
     "timeMonth": 538,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2024-12-12": 40,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1433,
@@ -583,6 +587,7 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2024-12-12": 40,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
