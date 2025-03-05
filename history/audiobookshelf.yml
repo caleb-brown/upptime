@@ -1,7 +1,7 @@
 url: https://abs.caleb-brown.dev
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2025-03-04T23:08:47.033Z
+status: down
+code: 502
+responseTime: 19876
+lastUpdated: 2025-03-05T15:01:12.129Z
 startTime: 2024-09-06T16:56:27.872Z
 generator: Upptime <https://github.com/upptime/upptime>
